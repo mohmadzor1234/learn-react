@@ -1,0 +1,16 @@
+.cards {
+    /* background-color: aqua;  */
+    width: 500px;
+    margin: 10px 20px ;
+}
+
+.cards .card-item {
+    border: 4px solid rgb(6, 83, 58);
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.cards .card-item  hr {
+    margin: 20px 0;
+}
