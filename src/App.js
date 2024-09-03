@@ -4,6 +4,7 @@ import Card from "./card/Card";
 import Aside from "./aside/Aside";
 
 function App() {
+
   return (
     <div className="App">
       <Header />
@@ -11,6 +12,8 @@ function App() {
       <div className="container">
         <Card />
         <Aside />
+
+      
       </div>
     </div>
   );
